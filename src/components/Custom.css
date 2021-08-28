@@ -1,0 +1,21 @@
+.card {
+    background-color: lightgray;
+    margin: 30px;
+    padding: 10px;
+}
+
+.typebtn {
+    width: 150px;
+    margin: 0px;
+    border: thin;
+    background-color: #f8f9fa;
+}
+
+.inRow {
+    display:flex; 
+    flex-direction:row;
+}
+
+.img-pad {
+    margin: 20px;
+}
